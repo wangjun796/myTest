@@ -1,4 +1,4 @@
-FROM wangjun796/test
+FROM wangjun796/web
 
 LABEL maintainer="wangjun796@gmail.com"
 
